@@ -25,12 +25,12 @@ Autor: Jonatas Vieira Coutinho
 
 CONTEÚDO:
 
-- Pasta "classes" - Contém os arquivos da biblioteca J PHP;
-- Pasta "imagens" - Contém algumas imagens que são utilizadas pelas classes em sua execução;
-- Manual.pdf - Manual da biblioteca;
-- exemplo_aplicativo.zip - Os arquivos referentes ao exemplo da seção 5 do manual;
-- mais_exemplos.zip - Arquivos referentes a outros exemplos do manual;
-- banco_teste.sql - Arquivo para criação do banco de dados dos exemplos do manual.
+- /classes - Contém os arquivos da biblioteca J PHP;
+- /imagens - Contém algumas imagens que são utilizadas pelas classes em sua execução;
+- /doc/Manual.pdf - Manual da biblioteca;
+- /exemplo_aplicativo -  Os arquivos referentes ao exemplo da seção 5 do manual;
+- /mais_exemplos - Arquivos referentes a outros exemplos do manual;
+- /exemplo_aplicativo/banco_teste.sql - Arquivo para criação do banco de dados dos exemplos do manual.
 
 OBS - O nome do banco de dados que o arquivo sql cria é "testej". Antes de importá-lo, verifique eventuais coincidências com nomes
 de banco de dados já existentes. Caso exista, renomeie o banco no arquivo sql antes de importá-lo.
