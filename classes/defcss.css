@@ -1,0 +1,106 @@
+/* declarações CSS*/
+/*
+background-color: #FFFFFF;
+*/
+
+/* Títulos de formulários */
+.tit {
+font: 14px verdana, arial, helvetica, sans-serif;
+font-weight:bolder;
+color:#777777;
+}
+
+/* Label */
+.label {
+font: 13px verdana, arial, helvetica, sans-serif;
+font-weight:bolder;
+color:#777777;
+}
+
+/* Mensagens de confirmação */
+.mensconf {
+font: 13px verdana, arial, helvetica, sans-serif;
+font-weight:bolder;
+color:#777777;
+}
+
+/* Mensgens de erro */
+.menserro {
+font: 13px verdana, arial, helvetica, sans-serif;
+font-weight:bolder;
+color:red;
+}
+
+/* Textos */
+.texto {
+font: 13px verdana, arial, helvetica, sans-serif;
+color:#777777;
+}
+
+
+input { 
+background-color: #FFFFFF; 
+font: 13px verdana, arial, helvetica, sans-serif;
+color:#777777;
+border:1px solid #C0C0C0;
+}
+
+
+select { 
+background-color: #B0E0E6;
+font:12px verdana, arial, helvetica, sans-serif;
+color:#003399;
+}
+
+
+textarea { 
+background-color: #B0E0E6;
+font:12px verdana, arial, helvetica, sans-serif;
+color:#003399;
+}
+
+/*
+Definições para as tabelas
+
+*/
+
+/* Tabela para a classe formulário */
+table#estiloform tr td {
+width:200px;
+background: #FFFFFF;
+}
+
+/* Tabelas para a classe TabDin */
+/* Definição geral */
+table#estilotodo tr td {
+width:150px;
+background: #0099FF;
+font:12px verdana, arial, helvetica, sans-serif;
+}
+
+/* Definição para as linhas alternadas */
+table#estilotodo tr.estilounico td {
+width:150px;
+background:#99CCFF;
+font:12px verdana, arial, helvetica, sans-serif;
+}
+
+/* Definição para os títulos */
+table#estilotodo tr.titulo td {
+width:150px;
+background:#00CCFF;
+font:12px verdana, arial, helvetica, sans-serif;
+}
+
+/* Label para títulos de tabelas */
+.labeltab {
+font: 13px verdana, arial, helvetica, sans-serif;
+font-weight:bolder;
+color:black;
+}
+
+/* Texto para as tabelas */
+.textotab {
+font: 13px verdana, arial, helvetica, sans-serif;
+color:black;
+}
